@@ -1,0 +1,12 @@
+{
+    "description": "This website is a link to nicolethemathlady.com.",
+    "repo": "github.com/himanshu-ntml/register",
+    "owner": {
+      "username": "himanshu-ntml",
+      "email": "himanshu@nicolethemathlady.com"
+    },
+    "record": {
+      "CNAME": "nicolethemathlady.com"
+    }
+  }
+  
